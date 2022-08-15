@@ -17,3 +17,4 @@ sayilar1 = sayilar2;
 sayilar2[0] = 999;
 //sayilar1[0]=? kaç olur? Cevap:999. Çünkü Referans tiplilerde ilişki kesilmez.Değer tipliler bellekte STACK bölümünde işlem görür fakat referans tiplilerde
 // STACK'e yazilan sayılar1 new int[] diyerek HEAP adlı bölümde verilen sayıların oluşmasını sağlar.Ve arasındaki bağlantıyı adres ile oluşturur.
+
