@@ -12,8 +12,8 @@ namespace GenericsIntro
         
         
         //ctor
-        //constructor(Bir class new lendiğinde çalışan bloğa denir. Yukardaki classı bir yerde new lersek aşağıdaki Mylist otomatik çalışır.
-        public MyList()
+        //constructor(Bir class new lendiğinde çalışan bloğa denir). Yukardaki classı bir yerde new lersek aşağıdaki Mylist otomatik çalışır.
+        public MyList() //default constructor
         {
              items = new T[0];
         }

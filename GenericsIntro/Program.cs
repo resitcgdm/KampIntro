@@ -3,6 +3,6 @@ using GenericsIntro;
 
 MyList<string> isimler = new MyList<string>();
 isimler.Add("engin");
-List<string> liste = new List<string>();
+//List<string> liste = new List<string>();
 
-Console.WriteLine(liste.Count);
+//Console.WriteLine(liste.Count);
